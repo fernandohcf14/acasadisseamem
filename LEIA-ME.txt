@@ -1,0 +1,19 @@
+A CASA DISSE AMÉM — PACOTE COMPLETO PARA VERCEL
+
+Conteúdo:
+- index.html: página principal
+- styles.css: identidade visual e responsividade
+- script.js: animações, galeria e oferta de upgrade
+- assets/: imagens, capas, logo e fontes
+
+IMPORTANTE
+Envie todo o conteúdo desta pasta mantendo exatamente a mesma estrutura.
+O arquivo index.html deve permanecer na raiz, ao lado de styles.css e script.js.
+
+Os códigos do Google Analytics e Meta Pixel já estão incluídos.
+Os links de checkout da Cakto também já estão configurados.
+
+Preços exibidos:
+- Kit Padrão: R$ 7,90
+- Kit Completo: R$ 15,70
+- Oferta de upgrade: R$ 14,70
